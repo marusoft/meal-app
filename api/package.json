@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "meal app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marusoft/meal-app.git"
+  },
+  "keywords": [
+    "meal"
+  ],
+  "author": "alimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marusoft/meal-app/issues"
+  },
+  "homepage": "https://github.com/marusoft/meal-app#readme"
+}
